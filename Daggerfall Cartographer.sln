@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Daggerfall Cartographer", "Daggerfall Cartographer.vcproj", "{901C3AC4-1201-437F-BB00-A2C620C879E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Debug MD
+		ConfigName.2 = Debug ML
+		ConfigName.3 = Debug MT
+		ConfigName.4 = Release
+		ConfigName.5 = Release MD
+		ConfigName.6 = Release ML
+		ConfigName.7 = Release MT
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Debug.ActiveCfg = Debug|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Debug.Build.0 = Debug|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Debug MD.ActiveCfg = Debug|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Debug MD.Build.0 = Debug|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Debug ML.ActiveCfg = Debug|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Debug ML.Build.0 = Debug|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Debug MT.ActiveCfg = Debug|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Debug MT.Build.0 = Debug|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Release.ActiveCfg = Release|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Release.Build.0 = Release|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Release MD.ActiveCfg = Release|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Release MD.Build.0 = Release|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Release ML.ActiveCfg = Release|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Release ML.Build.0 = Release|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Release MT.ActiveCfg = Release|Win32
+		{901C3AC4-1201-437F-BB00-A2C620C879E4}.Release MT.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
